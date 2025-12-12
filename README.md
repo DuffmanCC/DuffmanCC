@@ -17,9 +17,13 @@
 
 ## 📈 GitHub Stats
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuffmanCC&show_icons=true&theme=radical&hide_title=true)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuffmanCC&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuffmanCC&layout=compact&theme=radical&langs_count=6)
+
+![Streak](https://streak-stats.demolab.com/?user=DuffmanCC)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuffmanCC)
 
 ## 🔥 Featured Projects
 
