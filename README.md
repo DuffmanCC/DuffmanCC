@@ -78,8 +78,7 @@ An interactive platform that simulates real React technical interviews with time
 ## 📫 Connect With Me
 
 - **Portfolio & Blog:** [carlosortiz.dev](https://carlosortiz.dev)
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter/GitHub:** [@YourHandle]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/carlosortiz79/)
 - **ReactChallenges:** [reactchallenges.com](https://reactchallenges.com)
 
 ---
