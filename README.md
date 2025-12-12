@@ -17,9 +17,9 @@
 
 ## 📈 GitHub Stats
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuffmanCC&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuffmanCC&layout=compact&theme=radical&langs_count=6)
 
 ## 🔥 Featured Projects
 
