@@ -5,7 +5,6 @@
 **Experienced Frontend Developer** with a strong focus on React, Next.js, and modern UI development. Over 10 years of proven experience building interactive, scalable, and maintainable web applications that deliver outstanding developer and user experiences.
 
 📍 Remote, Spain  
-📧 [Available on my website](https://carlosortiz.dev)  
 💼 Open to impactful opportunities
 
 ## 🛠️ Tech Stack
@@ -80,6 +79,7 @@ An interactive platform that simulates real React technical interviews with time
 - **Portfolio & Blog:** [carlosortiz.dev](https://carlosortiz.dev)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/carlosortiz79/)
 - **ReactChallenges:** [reactchallenges.com](https://reactchallenges.com)
+- **Mail:** (carlosor@gmail.com)
 
 ---
 
