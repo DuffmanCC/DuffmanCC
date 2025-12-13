@@ -9,25 +9,24 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Vue.js, Astro, Tailwind CSS, shadcn/ui, Storybook  
-**Backend & DB:** Node.js, Laravel, PostgreSQL, Drizzle ORM, GraphQL, REST APIs  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vue,astro,tailwind,figma,nodejs,laravel,postgresql,mongo,graphql,symfony,express,vim,html,css,javascript,php,vscode,wordpress,jest,vitest,vite,alpinejs,npm,pnpm,webpack&perline=7" />
+</p>
+
+**Frontend:** React, Next.js, TypeScript, Vue.js, Astro, Tailwind CSS, Shadcn/ui, Storybook, Figma
+**Backend & DB:** Node.js, Express, Laravel, Symfony, PostgreSQL, MongoDB, Drizzle ORM, GraphQL, REST APIs
 **AI & Tools:** OpenAI/ChatGPT, Pinecone, Vector Databases, Rete.js  
-**Platforms & DevOps:** WordPress, Docker, Vercel, GitHub Actions, Vitest, Playwright
+**Platforms & DevOps:** WordPress, Docker, Vercel, GitHub Actions, Vitest, Playwright)
 
 ## 📈 GitHub Stats
-
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuffmanCC&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuffmanCC&layout=compact&theme=radical&langs_count=6)
-
-![Streak](https://streak-stats.demolab.com/?user=DuffmanCC)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuffmanCC)
 
 ## 🔥 Featured Projects
 
 ### 🚀 [ReactChallenges.com](https://reactchallenges.com)
-*Founder & Lead Developer*
+
+_Founder & Lead Developer_
 
 An interactive platform that simulates real React technical interviews with timed coding challenges.
 
@@ -40,7 +39,8 @@ An interactive platform that simulates real React technical interviews with time
 `Next.js` `React` `TypeScript` `PostgreSQL` `Drizzle` `Tailwind` `Vercel`
 
 ### ⚡ AI-Powered Workflow Applications
-*Lead Frontend Engineer at FlowArchitect & MainGPT*
+
+_Lead Frontend Engineer at FlowArchitect & MainGPT_
 
 - Led frontend architecture for **AI-driven workflow** applications
 - Integrated **vector databases** (Pinecone) for semantic search in chat assistants
@@ -50,14 +50,15 @@ An interactive platform that simulates real React technical interviews with time
 `React` `Vue.js` `OpenAI` `Pinecone` `Rete.js` `TypeScript`
 
 ### 🏗️ Enterprise Design Systems
-*Full Stack Developer at Network Rail*
+
+_Full Stack Developer at Network Rail_
 
 - Created **design system** using Storybook for corporate website
 - Developed **custom Gutenberg blocks** with Advanced Custom Fields + Vue.js
 - Led architecture decisions across multiple teams and agencies
 - Built **single-page applications** and microsites
 
-`Vue.js` `React` `WordPress` `Storybook` `TypeScript` `Tailwind`
+`WordPress` `Vue.js` `React` `WordPress` `Storybook` `TypeScript` `Tailwind`
 
 ## 📊 Key Achievements
 
@@ -80,7 +81,3 @@ An interactive platform that simulates real React technical interviews with time
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/carlosortiz79/)
 - **ReactChallenges:** [reactchallenges.com](https://reactchallenges.com)
 - **Email:** [carlosor@gmail.com](mailto:carlosor@gmail.com)
-
----
-
-*"Specializing in building interactive, scalable, and maintainable web applications that deliver outstanding developer and user experiences."*
